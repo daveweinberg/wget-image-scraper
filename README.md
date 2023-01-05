@@ -3,8 +3,6 @@
 This shellscript scrapes all images, recursively, from the urls listed
 in the sites.txt file.
 
-It will be used in an art project by Stefan Baltensperger.
-
 Usage:
   - Add urls to the sites.txt file like this
       http://www.yoursite.ch
